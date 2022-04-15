@@ -1,6 +1,9 @@
 # Dependencies
 node_modules/
 
+# Test Coverage
+coverage/
+
 # IDE
 .idea/
 .vscode/
